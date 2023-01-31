@@ -1,0 +1,16 @@
+﻿body {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+label {
+    padding: 5px;
+    display:inline-block;
+    font-weight: 200;
+    color: navy
+}
+
+.button {
+    padding: 5px;
+    font-style: italic;
+}
