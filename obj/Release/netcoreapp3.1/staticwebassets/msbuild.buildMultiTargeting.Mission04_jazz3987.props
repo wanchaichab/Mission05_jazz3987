@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Mission04_jazz3987.props" />
+</Project>

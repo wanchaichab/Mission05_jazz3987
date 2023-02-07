@@ -1,5 +1,44 @@
-﻿<Properties StartupConfiguration="{5E5A85E6-AB2A-4865-B223-41331407CF6C}|Default">
-  <MultiItemStartupConfigurations />
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{5E5A85E6-AB2A-4865-B223-41331407CF6C}|Default">
   <MonoDevelop.Ide.ItemProperties.Mission04__jazz3987 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <Debugger.DebugSourceFolders />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="wwwroot/js/form.js">
+    <Files>
+      <File FileName="Views/blah/Index.cshtml" Line="5" Column="77" />
+      <File FileName="Views/Shared/_Layout.cshtml" Line="56" Column="1" />
+      <File FileName="Views/Blah/GradeCalculator.cshtml" Line="12" Column="32" />
+      <File FileName="Models/GradeCalcModel.cs" Line="37" Column="1" />
+      <File FileName="wwwroot/js/form.js" Line="49" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Mission04_jazz3987" expanded="True">
+            <Node name="Mission04_jazz3987" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Blah" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="js" expanded="True">
+                  <Node name="form.js" selected="True" />
+                </Node>
+                <Node name="lib" expanded="True">
+                  <Node name="bootstrap" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
 </Properties>
