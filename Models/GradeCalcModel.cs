@@ -5,6 +5,7 @@ namespace Mission04_jazz3987.Models
 {
 	public class GradeCalcModel
 	{
+        //Validation for each value
         [Required]
         [Range(0, 100, ErrorMessage="Assignment score must be between 0 and 100")]
 		public double assignmentGrade { get; set; }

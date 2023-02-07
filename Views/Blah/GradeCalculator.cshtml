@@ -9,6 +9,7 @@
 
 <h2>Grade Calculator</h2>
 <form method="post">
+    <!--Get Scores-->
     <label>Assignments:</label>
     <input id="assignmentGrd" asp-for="assignmentGrade" /> <br />
 
@@ -28,7 +29,7 @@
     <label>INTEX:</label>
     <input id="intexGrd" asp-for="intexGrade" /> <br />
     <input id="calc" type="submit" value="Calculate Final Grade" /> <br />
-    <!--<label id="calcGrd">Final grade is: </label>-->
 
+    <!--Show error messages if any-->
     <div asp-validation-summary="All"></div>
 </form>

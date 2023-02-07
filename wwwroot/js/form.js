@@ -22,7 +22,7 @@
 
     if (valid) // if data is valid
     {
-        // calulate final grade
+        // calculate final grade
         let finalGrd = (0.5 * assignmentGrd) + (0.1 * groprojectGrd) +
             (0.1 * quizGrd) + (0.1 * midtermExGrd) +
             (0.1 * finalExGrd) + (0.1 * intexGrd);
